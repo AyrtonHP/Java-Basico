@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadoraidade/Calculadoraidade.iml" filepath="$PROJECT_DIR$/Calculadoraidade/Calculadoraidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadoraidade01/Calculadoraidade01.iml" filepath="$PROJECT_DIR$/Calculadoraidade01/Calculadoraidade01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticaoFor01/EstruturaDeRepeticao01.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticaoFor01/EstruturaDeRepeticao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticaoFor02/EstruturaDeRepeticao02.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticaoFor02/EstruturaDeRepeticao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer002/Exer002.iml" filepath="$PROJECT_DIR$/Exer002/Exer002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicional04/Exer02.iml" filepath="$PROJECT_DIR$/EstruturaCondicional04/Exer02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicional03/Exer04.iml" filepath="$PROJECT_DIR$/EstruturaCondicional03/Exer04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer06/Exer06.iml" filepath="$PROJECT_DIR$/Exer06/Exer06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicional05/Exerc10.iml" filepath="$PROJECT_DIR$/EstruturaCondicional05/Exerc10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exerc11/Exerc11.iml" filepath="$PROJECT_DIR$/Exerc11/Exerc11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Faculdade/Faculdade.iml" filepath="$PROJECT_DIR$/Faculdade/Faculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetodosProcedimento01/Funcao01.iml" filepath="$PROJECT_DIR$/MetodosProcedimento01/Funcao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Primeiros-passos.iml" filepath="$PROJECT_DIR$/.idea/Java-Primeiros-passos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticaoWhile01/Numero.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticaoWhile01/Numero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFX/OlaMundoJavaFX.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFX/OlaMundoJavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresSwing/OperadoresSwing.iml" filepath="$PROJECT_DIR$/OperadoresSwing/OperadoresSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo09/Poo09.iml" filepath="$PROJECT_DIR$/Poo09/Poo09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PooGuanabara/PooGuanabara.iml" filepath="$PROJECT_DIR$/PooGuanabara/PooGuanabara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" filepath="$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResoluçãoDaTela/ResoluçãoDaTela.iml" filepath="$PROJECT_DIR$/ResoluçãoDaTela/ResoluçãoDaTela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoLpoo/TrabalhoLpoo.iml" filepath="$PROJECT_DIR$/TrabalhoLpoo/TrabalhoLpoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor01/Vetor01.iml" filepath="$PROJECT_DIR$/Vetor01/Vetor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor02/Vetor02.iml" filepath="$PROJECT_DIR$/Vetor02/Vetor02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor03/Vetor03.iml" filepath="$PROJECT_DIR$/Vetor03/Vetor03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor04/Vetor04.iml" filepath="$PROJECT_DIR$/Vetor04/Vetor04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lpoo01/funcao02.iml" filepath="$PROJECT_DIR$/Lpoo01/funcao02.iml" />
+    </modules>
+  </component>
+</project>
