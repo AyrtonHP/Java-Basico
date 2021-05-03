@@ -1,4 +1,4 @@
-package exercicio09;
+package exercicio10;
 
 public class ComplexNum {
     double real, imaginary;
