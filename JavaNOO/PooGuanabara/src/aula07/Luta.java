@@ -20,8 +20,8 @@ public class Luta {
         l[5] = new Lutador("Nerdaard", "EUA", 30, 1.81, 105.7, "pesado",
                 12,2,4);
 
-       l[0].apresentar();
-       l[0].status();
+        l[0].apresentar();
+        l[0].status();
 
     }
 }

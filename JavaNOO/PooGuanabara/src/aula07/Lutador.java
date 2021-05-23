@@ -70,7 +70,7 @@ public class Lutador implements Espesificacao {
 
     public void setCategoria() {
         if (this.getPeso() < 52.2) {
-            this.categoria = "Invalido";
+            this.categoria = "Invalida";
         } else if (this.getPeso() <= 70.3) {
             this.categoria =  "Leve";
         } else if (this.getPeso() <= 83.9) {
