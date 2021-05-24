@@ -7,11 +7,9 @@ public class Lutador implements Espesificacao {
     private  double altura;
     private double peso;
     private String categoria;
-    private int vitoria;
-    private int derrota;
-    private int empates;
+    private int vitoria, empates, derrota;
 
-    public Lutador(String n,String nacio, int idade, double altura, double p, String c, int vitoria, int derrota, int empates) {
+    public Lutador(String n,String nacio, int idade, double altura, double p, int vitoria, int derrota, int empates) {
         this.setNome(n);
         this.setNacionalidade(nacio);
         this.setIdade(idade);
@@ -109,21 +107,24 @@ public class Lutador implements Espesificacao {
 
     @Override
     public void apresentar() {
-        System.out.println("lutador: " + this.getNome());
-        System.out.println("Origem: " + this.getNacionalidade());
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+        System.out.println("Chegou a Hora! Apresentamos o Lutador: " + this.getNome());
+        System.out.println("Diretamente de: " + this.getNacionalidade());
         System.out.println(getIdade() + " Anos");
         System.out.println(getAltura() + " M de altura");
         System.out.println("Pesando: " + this.getPeso() + " KG");
         System.out.println("Ganhou: " + getVitoria());
         System.out.println("Perdeu: " + getDerrota());
         System.out.println("Empatou: " + getEmpates());
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
     }
 
     @Override
     public void status() {
-        System.out.println(getNome());
-        System.out.println("é um Peso " + getCategoria());
+        System.out.println(getNome() + "é um peso " + this.getCategoria());
         System.out.println(getVitoria() + " Vitórias");
+        System.out.println(getDerrota() + " Derrotas");
+        System.out.println(getEmpates()+ " Empates");
     }
 
     @Override
