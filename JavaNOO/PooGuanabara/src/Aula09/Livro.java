@@ -1,23 +1,24 @@
 package Aula09;
 
 public class Livro implements  Interface{
+    private String titulo;
     private String autor;
     private  int totPagninas;
     private  int pagAtual;
     private  boolean aberto;
-    private String titulo;
     private Pessoa leitor;
 
 
     public String Detalhes() {
-        return "Livro{" +
-                "autor='" + autor + '\'' +
-                ", totPagninas=" + totPagninas +
-                ", pagAtual=" + pagAtual +
-                ", aberto=" + aberto +
-                ", titulo='" + titulo + '\'' +
-                ", leitor=" + leitor.getNome() +
-                '}';
+        return "=-=-=-=-=-=-=Livro =-=-=-=-=-=-=\n" +
+                " autor='" + autor + '\'' +
+                ",\n totPagninas= " + totPagninas +
+                ",\n pagAtual= " + pagAtual +
+                ",\n aberto= " + aberto +
+                ",\n titulo=" + titulo + '\'' +
+                ",\n leitor= " + leitor.getNome() +
+                "\n idade= " + leitor.getIdade() +
+                "\n sexo= " + leitor.getSexo();
     }
 
     public Livro(String autor, int totPagninas, String titulo, Pessoa leitor) {
@@ -33,31 +34,30 @@ public class Livro implements  Interface{
     @Override
     public void abrir() {
         setAberto(true);
-
     }
 
     @Override
     public void fechar() {
         this.setAberto(false);
-
     }
 
     @Override
     public void folhear( int pagina) {
         this.pagAtual = pagina;
-
+        if (pagina > this.totPagninas) {
+            System.out.println("Não e possivel passar a folha");
+            this.pagAtual = 0;
+        }
     }
 
     @Override
     public void avancarPag() {
         this.pagAtual++;
-
     }
 
     @Override
     public void voltarPag() {
         this.pagAtual--;
-
     }
 
     public String getAutor() {

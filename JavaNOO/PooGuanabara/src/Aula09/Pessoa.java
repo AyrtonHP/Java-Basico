@@ -6,7 +6,7 @@ public class Pessoa{
     private  String sexo;
 
     public void fazerAnivsersario() {
-        this.setIdade(getIdade() + 1);
+        this.idade ++;
 
     }
 

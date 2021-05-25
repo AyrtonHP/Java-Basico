@@ -12,7 +12,10 @@ public class Index {
     l[1] = new Livro("pedro", 500, "Aprendendo HTML", p[1]);
     l[1] = new Livro("Maria", 700, "java avançado", p[0]);
 
+        l[0].abrir();
+        l[0].folhear(500);
         System.out.println(l[0].Detalhes());
+
 
 
     }
