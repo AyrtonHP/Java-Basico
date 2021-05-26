@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/Calculadoraidade01/Calculadoraidade01.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/Calculadoraidade01/Calculadoraidade01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional03/EstruturaCondicional03.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional03/EstruturaCondicional03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional04/EstruturaCondicional04.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional04/EstruturaCondicional04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional05/EstruturaCondicional05.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeCondicao/EstruturaCondicional05/EstruturaCondicional05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoFor01/EstruturaDeRepeticaoFor01.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoFor01/EstruturaDeRepeticaoFor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoFor02/EstruturaDeRepeticaoFor02.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoFor02/EstruturaDeRepeticaoFor02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoWhile01/EstruturaDeRepeticaoWhile01.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/EstruturaDeRepeticao/EstruturaDeRepeticaoWhile01/EstruturaDeRepeticaoWhile01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/Faculdade/Faculdade.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/Faculdade/Faculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/Funcao/Funcao.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/Funcao/Funcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/IdiomaDoSistema/IdiomaDoSistema.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basico.iml" filepath="$PROJECT_DIR$/.idea/Java-Basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/JavaFX/JavaFX.iml" filepath="$PROJECT_DIR$/ExerciciosJava/JavaFX/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/MetodosProcedimento01/MetodosProcedimento01.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/MetodosProcedimento01/MetodosProcedimento01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/OperadoresAritimeticos/OperadoresAritimeticos.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/OperadoresAritimeticos/OperadoresAritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/OperadoresSwing/OperadoresSwing.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/OperadoresSwing/OperadoresSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/PooGuanabara/PooGuanabara.iml" filepath="$PROJECT_DIR$/ExerciciosJava/PooGuanabara/PooGuanabara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/RelogioSwing/RelogioSwing.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/RelogioSwing/RelogioSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Swing/ResoluçãoDaTela/ResoluçãoDaTela.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Swing/ResoluçãoDaTela/ResoluçãoDaTela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/ThryCatch/ThryCatch.iml" filepath="$PROJECT_DIR$/ExerciciosJava/ThryCatch/ThryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/Java basico/TrabalhoLpoo/TrabalhoLpoo.iml" filepath="$PROJECT_DIR$/ExerciciosJava/Java basico/TrabalhoLpoo/TrabalhoLpoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor01/Vetor01.iml" filepath="$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor01/Vetor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor02/Vetor02.iml" filepath="$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor02/Vetor02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor03/Vetor03.iml" filepath="$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor03/Vetor03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor04/Vetor04.iml" filepath="$PROJECT_DIR$/ExerciciosJava/VariaveisCompostas/Vetor04/Vetor04.iml" />
     </modules>
   </component>
 </project>
