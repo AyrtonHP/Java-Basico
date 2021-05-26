@@ -1,7 +1,7 @@
 package Aula10Heranca;
 
 public class Aluno extends Pessoa {
-    private String matricula;
+    private boolean matri;
     private String curso;
 
     public void cancelarMatri(){
@@ -9,12 +9,12 @@ public class Aluno extends Pessoa {
 
     }
 
-    public String getMatricula() {
-        return matricula;
+    public boolean getMatri() {
+        return matri;
     }
 
-    public void setMatricula(String matricula) {
-        this.matricula = matricula;
+    public void setMatri(boolean matri) {
+        this.matri = matri;
     }
 
     public String getCurso() {

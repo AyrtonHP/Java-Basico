@@ -28,6 +28,8 @@ public class Main {
         pf[0].setIdade(12);
 
         pa[0].setCurso("Python");
+        pa[0].setMatri(true);
+        pf[0].setTrabalho(true);
 
         System.out.println(p[0].toString());
         System.out.println(pa[0].toString());

@@ -5,8 +5,8 @@ public class Luta {
 
     public static void main(String[] args) {
         Lutador l[] = new  Lutador[6];
-        Round ufc = new Round();
 
+        Round ufc = new Round();
 
         l[0]  = new Lutador("Pretty Boy", "frança", 31, 1.75, 68.9, 11, 2, 1);
 
