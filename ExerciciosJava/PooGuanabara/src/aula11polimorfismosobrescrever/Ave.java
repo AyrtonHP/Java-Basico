@@ -1,7 +1,8 @@
 package aula11polimorfismosobrescrever;
 
 public class Ave extends Animal{
-    private String corPena;
+
+    private String corPena ;
 
     public void fazerNinho(){
         System.out.println("Construindo Ninho");

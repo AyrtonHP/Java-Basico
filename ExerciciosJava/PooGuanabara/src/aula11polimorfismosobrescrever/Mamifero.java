@@ -2,7 +2,7 @@ package aula11polimorfismosobrescrever;
 
 public class Mamifero extends Animal{
 
-    private  String corPelo;
+    protected String corPelo;
 
     public String getCorPelo() {
         return corPelo;
