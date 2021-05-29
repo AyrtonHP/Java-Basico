@@ -1,4 +1,4 @@
-package aula11polimorfismosobrescrever;
+package aula11polisobrescrever;
 
 public class Reptil extends Animal {
 
