@@ -1,4 +1,4 @@
-package Aula10Heranca;
+package aula10Heranca;
 
 public class Pessoa  {
     private String nome;

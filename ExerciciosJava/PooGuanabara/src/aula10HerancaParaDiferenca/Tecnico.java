@@ -1,4 +1,4 @@
-package Aula10HerancaParaDiferenca;
+package aula10HerancaParaDiferenca;
 
 public class Tecnico extends  Aluno{
     private String registarProfisao;

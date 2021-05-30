@@ -1,4 +1,4 @@
-package Aula10HerancaParaDiferenca;
+package aula10HerancaParaDiferenca;
 
 public abstract class  Pessoa {
     protected String nome;

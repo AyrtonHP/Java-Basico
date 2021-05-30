@@ -1,4 +1,4 @@
-package Aula09;
+package aula09;
 
 public class Index {
     public static void main(String[] args) {

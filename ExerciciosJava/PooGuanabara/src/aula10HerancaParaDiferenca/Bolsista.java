@@ -1,4 +1,4 @@
-package Aula10HerancaParaDiferenca;
+package aula10HerancaParaDiferenca;
 
 public class Bolsista extends Aluno{
     private float bolsa;
